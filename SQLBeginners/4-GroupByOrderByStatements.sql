@@ -1,9 +1,4 @@
-/* SQL Basics Tutorial for Beginners| Group By + Order By Statments
-
-Support websites:
-SQL statements: https://www.w3schools.com/sql/sql_intro.asp
-Use case scenarios using SQL:https://www.hackerrank.com/products/main/
-
+ 
 Today:
 
 DISTINCT, GROUP BY and ORDER BY

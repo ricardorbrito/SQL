@@ -1,8 +1,3 @@
-/* Advanced SQL Tutorial | Stored Procedure
-
-Support websites:
-SQL statements: https://www.w3schools.com/sql/sql_intro.asp
-Use case scenarios using SQL:https://www.hackerrank.com/products/main/
 
 Today:
 

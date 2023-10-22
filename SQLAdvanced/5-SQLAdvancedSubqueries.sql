@@ -1,9 +1,3 @@
-/* Advanced SQL Tutorial | Subqueries (in the select, from, where statement)
-
-
-Support websites:
-SQL statements: https://www.w3schools.com/sql/sql_intro.asp
-Use case scenarios using SQL:https://www.hackerrank.com/products/main/
 
 Today:
 

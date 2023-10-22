@@ -1,10 +1,4 @@
-/* Advanced SQL Tutorial | Temp Tables
-
-Support websites:
-SQL statements: https://www.w3schools.com/sql/sql_intro.asp
-Use case scenarios using SQL:https://www.hackerrank.com/products/main/
-
-Today:
+:
 
 Temp Tables - Temporary Tables
 
@@ -12,7 +6,7 @@ COMMENTS:
 -- YOU CAN HIT OFF THIS TEMP TABLE MULTIPLE TIMES.YOU CANNOT DO IT WITH CTE OR A SUBQUERY BECAUSE YOU CAN ONLY USE THEM ONE TIME.
 -- EXTREMELY USEFUL.
 -- YOU CREATE A TEMP TABLE USING POUND SIGN OR HASHTAG. THE UNIQUE DIFFERENCE BETWEEN A TABLE AND A TEM TABLE IS THE POUND SIGN AT THE BEGNING OF CREATING TABLE.
-*/
+ 
 
 CREATE TABLE #temp_Employee (
 EmployeeID int,

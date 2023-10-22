@@ -1,12 +1,4 @@
-/* SQL Basics Tutorial for Beginners| Installing SQL Server Management Studio (SSMS) and Creating tables
-
-Websites to download SSMS and SQL Server:
-SSMS: https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
-SQL Server:https://www.microsoft.com/en-gb/sql-server/sql-server-downloads
-Support websites:
-SQL statements: https://www.w3schools.com/sql/sql_intro.asp
-Use case scenarios using SQL:https://www.hackerrank.com/products/main/
-
+ 
 Today:
 
 CREATE TABLE and  INSERT INTO

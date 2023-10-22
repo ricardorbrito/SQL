@@ -1,9 +1,4 @@
-/* SQL Basics Tutorial for Beginners| Select + From Statements
-
-Support websites:
-SQL statements: https://www.w3schools.com/sql/sql_intro.asp
-Use case scenarios using SQL:https://www.hackerrank.com/products/main/
-
+ 
 Today:
 
 Select Statement

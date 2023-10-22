@@ -1,14 +1,9 @@
-/* Advanced SQL Tutorial | String Functions
-
-Support websites:
-SQL statements: https://www.w3schools.com/sql/sql_intro.asp
-Use case scenarios using SQL:https://www.hackerrank.com/products/main/
 
 Today:
 
 TRIM, LTRIM, RTRIM, Replace, Substring, Upper, Lower
 
-*/
+ 
 
 DROP TABLE IF EXISTS EMPLOYEEBRAZILERRORS;
 
